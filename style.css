@@ -26,3 +26,14 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   width: 687px;
   margin-left: 45px;
 }
+
+.div-pokemon{
+ 
+  max-width: 244px;
+  background-color: rgba(218, 24, 24, 0);
+  bottom: 432px;
+ position: relative;
+  left: 90px;
+
+  
+}
