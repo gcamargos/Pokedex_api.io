@@ -48,6 +48,12 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   background-color: rgba(0, 195, 255, 0.022);
   width: 780px;
   text-align: left;
- margin-top:56px;
+ margin-top:56px;}
 
+ 
+.img-pokedex{
+  width: 630px;
+  margin: auto;
+  align-items: center;
+}
 }
