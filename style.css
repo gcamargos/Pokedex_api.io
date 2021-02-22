@@ -56,4 +56,15 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   margin: auto;
   align-items: center;
 }
+
+.input{
+  width: 246px;
+  height: 67px;
+  text-align: center;
+  background-color: transparent;
+  outline:none;
+  color: rgb(238, 238, 166);
+  border: none;
+  font-size: 40px;
+  font-family:Aler ;
 }
