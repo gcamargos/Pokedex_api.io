@@ -90,3 +90,13 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
       font-family: 'Turret Road', cursive;
       
 }
+.button:active{
+  border-top: none;
+  outline: none;
+}
+
+.content-data{
+  height: 600px;
+  width: 780px;
+  margin-left: 15px;
+}
