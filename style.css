@@ -74,3 +74,19 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   height: 34px;
   text-align: center;
 }
+.button{
+  width: 113px;
+  height: 34px;
+  border-radius: 5px;
+  position: relative;
+  bottom: 142px;
+  left: 480px;
+  background-color: transparent;
+  border-color: transparent;
+  outline: transparent;
+  color: rgb(164, 215, 228);
+  font-variant: 200px;
+  font-family: 'Syne Tactile', cursive;
+      font-family: 'Turret Road', cursive;
+      
+}
