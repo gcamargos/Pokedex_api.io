@@ -109,3 +109,16 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   margin-top: 50px;
 
 }
+.section-habilidades{
+  background-color: #060d50c6;
+  color: #f9c240;
+  line-height: 25px;
+  border-style: solid;
+  width: 100%;
+  text-transform: capitalize;
+  text-align: justify;
+  font-size: 1em;
+  margin-bottom: 20px;
+  height: 500px
+
+}
