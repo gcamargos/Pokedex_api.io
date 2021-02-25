@@ -100,3 +100,12 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   width: 780px;
   margin-left: 15px;
 }
+.h1{
+  width: 100px;
+}
+.h2{
+  width: 100px;
+  margin-left: 15px;
+  margin-top: 50px;
+
+}
