@@ -141,3 +141,7 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
     text-transform: uppercase;
     text-align: center;
      }
+     .tipo{
+      font-family: 'Syne Tactile', cursive;
+     
+    }
