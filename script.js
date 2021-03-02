@@ -15,3 +15,12 @@ var searchbut = easy('.button')
 var altura = easy('.altura')
 var peso = easy('.peso')
 var conteiner = easy('.conteiner')
+
+function pegarAPI(url, name) {
+  fetch(url + name)
+    .then(response => response.json())
+    .then(data => {
+      dados = data;
+    })
+    .catch(err => console.log(err))
+}
