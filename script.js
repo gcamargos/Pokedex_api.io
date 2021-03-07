@@ -45,3 +45,9 @@ function atribui() {
   altura.innerHTML = `ALTURA: ${parseFloat(height.toFixed(2))}m`
 
 }
+function search() {
+  nome = pokename.value;
+  iniciapp(nome);
+
+
+}
