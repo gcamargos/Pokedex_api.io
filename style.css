@@ -37,6 +37,15 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
 
   
 }
+.div-input{
+ 
+  width: 246px;
+  height: 67px;
+  position: relative;
+  left: 365px;
+  bottom: 305px;
+
+}
 .pokemon{
   min-width: 156px;
   max-width: 230px;
@@ -141,6 +150,7 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
     text-transform: uppercase;
     text-align: center;
      }
+
      .tipo{
       font-family: 'Syne Tactile', cursive;
      
