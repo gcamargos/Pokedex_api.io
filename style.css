@@ -16,7 +16,7 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   text-align: center;
 }
 .conteiner{
-  background-color: rgba(255, 0, 0, 0);
+  background-color: rgba(0, 3, 82, 0);
   display: flex;
 }
 
@@ -96,7 +96,7 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
   color: rgb(187, 255, 0);
   font-variant: 200px;
   font-family: 'Syne Tactile', cursive;
-      font-family: 'Turret Road', cursive;
+  font-family: 'Turret Road', cursive;
       
 }
 .button:active{
@@ -119,7 +119,7 @@ overflow-y: hidden;  /* faz com que a barra de rolagem suma*/
 
 }
 .section-habilidades{
-  background-color: #060d50c6;
+  background-color: #060d509e;
   color: #f9c240;
   line-height: 25px;
   border-style: solid;
